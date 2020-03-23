@@ -367,6 +367,7 @@ paket-files/
 .idea/**
 !.idea/.idea.et-etbaas-backend/.idea/codeStyles
 *.sln.iml
+.idea
 
 # CodeRush personal settings
 .cr/personal
